@@ -6,6 +6,7 @@ Data Preprocessing:
 
 Handles missing values by replacing them with the column mean (for numerical data) or mode (for categorical data).
 Displays statistical summaries and identifies correlations using heatmaps.
+
 Exploratory Data Analysis (EDA):
 
 Visualizes the distribution of house prices.
@@ -18,9 +19,11 @@ Evaluates the model with metrics like Mean Squared Error (MSE) and R-squared (RÂ
 Custom Predictions:
 
 Allows users to input custom house features (e.g., square footage, bedrooms, bathrooms) and get an estimated price.
+
 Predictions on Test Data:
 
 Generates predictions for a test dataset and saves the results in a submission.csv file.
+
 Visualization:
 
 Includes scatter plots to compare actual vs. predicted prices.
